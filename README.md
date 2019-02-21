@@ -15,4 +15,4 @@ For visualization the detected lines are published on markers that can be visual
 
 OBSTACLE AVOIDANCE USING BUG2 ALGORITHM
 
-In this part the robot starts at a fixed point and plans its path to another point. The robot navigates itself avoiding the various obstacles in its way using the standard bug2 algorithm. The robot will be in one of two states: GOAL SEEK and WALL FOLLOW. It follows the WALL by using the lines detected in the previous part to drive in parallel to it and when it dowsn't detect any walls it starts to go towards the goal following the line from the starting point to the end point.
+In this part the robot starts at a fixed point and plans its path to another point. The robot navigates itself avoiding the various obstacles in its way using the standard bug2 algorithm. The robot will be in one of two states: GOAL SEEK and WALL FOLLOW. It follows the WALL by using the lines detected in the previous part to drive in parallel to it and when it doesn't detect any walls it starts to go towards the goal following the line from the starting point to the end point.
